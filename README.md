@@ -1,4 +1,5 @@
 A little script that get rid of objects stuck to a character.
+Use the /propfix command to remove the prop/object.
 
 How to:
 - Download the steff-propfix script.
