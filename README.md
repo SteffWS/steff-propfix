@@ -7,4 +7,6 @@ How to:
   
 Join my discord: https://discord.gg/mjYDEhKNrQ
 
+The /attachprop is not included in the code. It's only for the testing part.
+
 https://github.com/SteffWS/steff-propfix/assets/84989476/d23cdfd5-2a58-4e53-ae98-d4e023225877
