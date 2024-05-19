@@ -33,6 +33,6 @@ https://streamable.com/uc7maj
 ## Contact
 For any issues, suggestions, or custom requests, join our Discord community.
 
-Our Discord: https://discord.gg/SyNGm3eXmP
+- Our Discord: https://discord.gg/SyNGm3eXmP
 
-Project Link: https://github.com/SteffWS/steff-propfix
+- Project Link: https://github.com/SteffWS/steff-propfix
