@@ -14,21 +14,28 @@ Introducing Steff Scripts Propfix, a handy script designed to help players remov
 - Lightweight: Designed to be efficient and easy to integrate into your server.
 
 ## Installation
-1. Download the Script: Clone or download the script from the GitHub repository.
+#### 1. Download the Script:
+Clone or download the script from the GitHub repository.
 
-2. Add to Your Resources: Place the steff-blackbars folder in your RedM server resources directory.
+#### 2. Add to Your Resources:
+Place the steff-blackbars folder in your RedM server resources directory.
 
-3. Update server.cfg: Add the following line to your server.cfg to ensure the resource is started.
+#### 3. Update server.cfg:
+Add the following line to your server.cfg to ensure the resource is started.
+
+ensure steff-propfix
 
 ## Usage
 In-Game Command:
 Use the following command in-game to remove any props or objects stuck to your character:
 /propfix
 
-Note: The /attachprop command mentioned is for testing purposes only and is not included in the script.
+### Example
+Use the /propfix command in-game to quickly and easily remove any unwanted props:
 
-Watch the script in action:
 https://streamable.com/uc7maj
+
+Note: The /attachprop command mentioned is for testing purposes only and is not included in the script.
 
 ## Contact
 For any issues, suggestions, or custom requests, join our Discord community.
