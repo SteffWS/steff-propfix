@@ -1,4 +1,4 @@
-# Steff Scripts Blackbars
+# Steff Scripts Blackbars For RedM
 
 ## Overview
 Introducing Steff Scripts Propfix, a handy script designed to help players remove any props or objects that are stuck to their character in RedM. Simply use the /propfix command to remove the unwanted items and get back to enjoying your game.
