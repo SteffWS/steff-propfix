@@ -28,6 +28,7 @@ ensure steff-propfix
 ## Usage
 In-Game Command:
 Use the following command in-game to remove any props or objects stuck to your character:
+
 /propfix
 
 ### Example
